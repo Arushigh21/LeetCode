@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arushigh21/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Arushigh21/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -23,13 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arushigh21/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arushigh21/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Arushigh21/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arushigh21/LeetCode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
