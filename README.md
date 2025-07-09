@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arushigh21/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Arushigh21/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Arushigh21/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Arushigh21/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
