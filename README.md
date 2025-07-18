@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Arushigh21/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0441-arranging-coins](https://github.com/Arushigh21/LeetCode/tree/master/0441-arranging-coins) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Arushigh21/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Arushigh21/LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
