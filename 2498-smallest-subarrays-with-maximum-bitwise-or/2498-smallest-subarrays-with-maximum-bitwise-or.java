@@ -1,15 +1,27 @@
-class Solution {
-    public int[] smallestSubarrays(int[] nums) {
-        int len = nums.length;
-        int[] lastSeen = new int[30];
-        int[] res = new int[len];
-        for (int i = 0; i < len; i++) res[i] = 1;
-        for (int i = len - 1; i >= 0; i--) {
-            for (int bit = 0; bit < 30; bit++) {
-                if ((nums[i] & (1 << bit)) > 0) lastSeen[bit] = i;
-                res[i] = Math.max(res[i], lastSeen[bit] - i + 1);
+class Solution 
+{
+    public int[] smallestSubarrays(int[] nums) 
+    {
+        int n = nums.length;
+        int[] result = new int[n];
+        int[] latest = new int[32];
+        Arrays.fill(latest, -1);
+        for (int i = n - 1; i >= 0; i--) 
+        {
+            int farthest = i;  
+            for (int b = 0; b < 32; b++) 
+            {
+                if (((nums[i] >> b) & 1) != 0) 
+                {
+                    latest[b] = i;
+                }
+                if (latest[b] != -1) 
+                {
+                    farthest = Math.max(farthest, latest[b]);
+                }
             }
+            result[i] = farthest - i + 1;
         }
-        return res;
+        return result;
     }
 }
