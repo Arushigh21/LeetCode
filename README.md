@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Arushigh21/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Probability and Statistics
 |  |
 | ------- |
