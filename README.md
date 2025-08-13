@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arushigh21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Arushigh21/LeetCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Arushigh21/LeetCode/tree/master/0441-arranging-coins) |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
@@ -118,10 +119,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arushigh21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Arushigh21/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arushigh21/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
