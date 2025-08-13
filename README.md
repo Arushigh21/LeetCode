@@ -88,9 +88,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Arushigh21/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/Arushigh21/LeetCode/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Arushigh21/LeetCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Arushigh21/LeetCode/tree/master/0441-arranging-coins) |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
 ## Bit Manipulation
