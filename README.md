@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arushigh21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arushigh21/LeetCode/tree/master/0020-valid-parentheses) |
 | [0649-dota2-senate](https://github.com/Arushigh21/LeetCode/tree/master/0649-dota2-senate) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Arushigh21/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
