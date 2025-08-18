@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arushigh21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Arushigh21/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arushigh21/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arushigh21/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Arushigh21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Arushigh21/LeetCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Arushigh21/LeetCode/tree/master/0441-arranging-coins) |
+| [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
 ## Bit Manipulation
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arushigh21/LeetCode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
