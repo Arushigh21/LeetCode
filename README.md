@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arushigh21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arushigh21/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Arushigh21/LeetCode/tree/master/0071-simplify-path) |
 | [0649-dota2-senate](https://github.com/Arushigh21/LeetCode/tree/master/0649-dota2-senate) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arushigh21/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arushigh21/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Arushigh21/LeetCode/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/Arushigh21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arushigh21/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
