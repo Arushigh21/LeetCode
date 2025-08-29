@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arushigh21/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Arushigh21/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
 | ------- |
