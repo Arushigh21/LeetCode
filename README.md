@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arushigh21/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arushigh21/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arushigh21/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arushigh21/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arushigh21/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arushigh21/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arushigh21/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arushigh21/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Arushigh21/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Recursion
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arushigh21/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arushigh21/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Arushigh21/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
@@ -192,9 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arushigh21/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arushigh21/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Arushigh21/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arushigh21/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
