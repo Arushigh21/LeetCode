@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arushigh21/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Arushigh21/LeetCode/tree/master/0141-linked-list-cycle) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Arushigh21/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Arushigh21/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Arushigh21/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Arushigh21/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Arushigh21/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arushigh21/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Arushigh21/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arushigh21/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
