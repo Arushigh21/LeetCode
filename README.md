@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arushigh21/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Arushigh21/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arushigh21/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arushigh21/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arushigh21/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
