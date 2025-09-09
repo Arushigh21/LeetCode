@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arushigh21/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Arushigh21/LeetCode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Arushigh21/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Arushigh21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arushigh21/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Arushigh21/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Arushigh21/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Arushigh21/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Arushigh21/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Arushigh21/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Arushigh21/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Sorting
 |  |
