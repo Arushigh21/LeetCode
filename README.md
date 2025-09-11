@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Arushigh21/LeetCode/tree/master/0072-edit-distance) |
 | [0649-dota2-senate](https://github.com/Arushigh21/LeetCode/tree/master/0649-dota2-senate) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arushigh21/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Arushigh21/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Arushigh21/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Arushigh21/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [2887-sort-vowels-in-a-string](https://github.com/Arushigh21/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arushigh21/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arushigh21/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Arushigh21/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
