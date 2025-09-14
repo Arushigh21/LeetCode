@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Arushigh21/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Arushigh21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1006-vowel-spellchecker](https://github.com/Arushigh21/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arushigh21/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arushigh21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Arushigh21/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Arushigh21/LeetCode/tree/master/0072-edit-distance) |
 | [0649-dota2-senate](https://github.com/Arushigh21/LeetCode/tree/master/0649-dota2-senate) |
+| [1006-vowel-spellchecker](https://github.com/Arushigh21/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arushigh21/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arushigh21/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Arushigh21/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Arushigh21/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
+| [1006-vowel-spellchecker](https://github.com/Arushigh21/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arushigh21/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arushigh21/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arushigh21/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
