@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Arushigh21/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arushigh21/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arushigh21/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/Arushigh21/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arushigh21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Arushigh21/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arushigh21/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arushigh21/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Arushigh21/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arushigh21/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Arushigh21/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arushigh21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Arushigh21/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arushigh21/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Arushigh21/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Arushigh21/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arushigh21/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arushigh21/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arushigh21/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Arushigh21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2429-design-a-food-rating-system](https://github.com/Arushigh21/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/Arushigh21/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arushigh21/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Arushigh21/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/Arushigh21/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Geometry
 |  |
 | ------- |
