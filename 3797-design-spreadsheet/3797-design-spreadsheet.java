@@ -1,32 +1,22 @@
-import java.util.*;
-
 class Spreadsheet {
-    private int rows;
-    private Map<String, Integer> cells;
-
-    public Spreadsheet(int rows) {
-        this.rows = rows;
-        this.cells = new HashMap<>();
-    }
-    
+    HashMap<String, Integer> mpp = new HashMap<>();
+    public Spreadsheet(int rows) {}
     public void setCell(String cell, int value) {
-        cells.put(cell, value);
+        mpp.put(cell, value);
     }
-    
     public void resetCell(String cell) {
-        cells.remove(cell);
+        mpp.put(cell, 0);
     }
-    
     public int getValue(String formula) {
-        String[] parts = formula.substring(1).split("\\+");
-        return get(parts[0]) + get(parts[1]);
-    }
-
-    private int get(String s) {
-        try {
-            return Integer.parseInt(s);
-        } catch (NumberFormatException e) {
-            return cells.getOrDefault(s, 0);
+        formula = formula.substring(1);
+        for (int i = 0; i < formula.length(); i++) {
+            if (formula.charAt(i) == '+') {
+                String s1 = formula.substring(0, i), s2 = formula.substring(i + 1);
+                int left = Character.isUpperCase(s1.charAt(0)) ? mpp.getOrDefault(s1, 0) : Integer.parseInt(s1);
+                int right = Character.isUpperCase(s2.charAt(0)) ? mpp.getOrDefault(s2, 0) : Integer.parseInt(s2);
+                return left + right;
+            }
         }
+        return 0;
     }
 }
