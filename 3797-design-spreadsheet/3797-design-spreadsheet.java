@@ -1,32 +1,26 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 class Spreadsheet {
-    private Map<String, Integer> cellValues;
+    private int rows;
+    private Map<String, Integer> cells;
     public Spreadsheet(int rows) {
-        this.cellValues = new HashMap<>();
+        this.rows = rows;
+        this.cells = new HashMap<>();
     }
     public void setCell(String cell, int value) {
-        cellValues.put(cell, value);
+        cells.put(cell, value);
     }
     public void resetCell(String cell) {
-        cellValues.put(cell, 0);
+        cells.remove(cell);
     }
     public int getValue(String formula) {
-        formula = formula.substring(1);
-        String[] operands = formula.split("\\+");
-        String leftOperand = operands[0];
-        String rightOperand = operands[1];
-        int result = 0;
-        if (leftOperand.matches("\\d+")) {
-            result += Integer.parseInt(leftOperand);
-        } else {
-            result += cellValues.getOrDefault(leftOperand, 0);
+        String[] parts = formula.substring(1).split("\\+");
+        return get(parts[0]) + get(parts[1]);
+    }
+    private int get(String s) {
+        try {
+            return Integer.parseInt(s);
+        } catch (NumberFormatException e) {
+            return cells.getOrDefault(s, 0);
         }
-        if (rightOperand.matches("\\d+")) {
-            result += Integer.parseInt(rightOperand);
-        } else {
-            result += cellValues.getOrDefault(rightOperand, 0);
-        }
-        return result;
-    } 
+    }
 }
