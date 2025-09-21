@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arushigh21/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Arushigh21/LeetCode/tree/master/0089-gray-code) |
 | [0326-power-of-three](https://github.com/Arushigh21/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Arushigh21/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Arushigh21/LeetCode/tree/master/0441-arranging-coins) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Arushigh21/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Arushigh21/LeetCode/tree/master/0089-gray-code) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arushigh21/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Arushigh21/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arushigh21/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Arushigh21/LeetCode/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/Arushigh21/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Arushigh21/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Arushigh21/LeetCode/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
 ## Matrix
 |  |
