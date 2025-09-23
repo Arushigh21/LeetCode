@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Arushigh21/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Arushigh21/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0165-compare-version-numbers](https://github.com/Arushigh21/LeetCode/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Arushigh21/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Arushigh21/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Arushigh21/LeetCode/tree/master/0072-edit-distance) |
+| [0165-compare-version-numbers](https://github.com/Arushigh21/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0649-dota2-senate](https://github.com/Arushigh21/LeetCode/tree/master/0649-dota2-senate) |
 | [1006-vowel-spellchecker](https://github.com/Arushigh21/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arushigh21/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
