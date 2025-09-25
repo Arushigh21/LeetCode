@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arushigh21/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arushigh21/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/Arushigh21/LeetCode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Arushigh21/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Arushigh21/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arushigh21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arushigh21/LeetCode/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Arushigh21/LeetCode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Arushigh21/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/Arushigh21/LeetCode/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arushigh21/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
