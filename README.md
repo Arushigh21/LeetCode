@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Arushigh21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Arushigh21/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/Arushigh21/LeetCode/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Arushigh21/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/Arushigh21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Arushigh21/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/Arushigh21/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Arushigh21/LeetCode/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/Arushigh21/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arushigh21/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Arushigh21/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/Arushigh21/LeetCode/tree/master/0649-dota2-senate) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Arushigh21/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Arushigh21/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arushigh21/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Arushigh21/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0441-arranging-coins](https://github.com/Arushigh21/LeetCode/tree/master/0441-arranging-coins) |
+| [0611-valid-triangle-number](https://github.com/Arushigh21/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arushigh21/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arushigh21/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Arushigh21/LeetCode/tree/master/3827-implement-router) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Arushigh21/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arushigh21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Arushigh21/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0611-valid-triangle-number](https://github.com/Arushigh21/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arushigh21/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arushigh21/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arushigh21/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
