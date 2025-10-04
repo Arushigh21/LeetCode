@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arushigh21/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Arushigh21/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arushigh21/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Arushigh21/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arushigh21/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Arushigh21/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Arushigh21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Arushigh21/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arushigh21/LeetCode/tree/master/0037-sudoku-solver) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arushigh21/LeetCode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Arushigh21/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/Arushigh21/LeetCode/tree/master/0649-dota2-senate) |
 | [1018-largest-perimeter-triangle](https://github.com/Arushigh21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
