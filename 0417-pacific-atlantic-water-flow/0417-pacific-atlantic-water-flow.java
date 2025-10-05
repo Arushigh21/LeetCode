@@ -1,57 +1,17 @@
 class Solution {
+    private int m, n;
+    private int[][] directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
-        int m = heights.length, n = heights[0].length;
+        m = heights.length;
+        n = heights[0].length;
         boolean[][] pacific = new boolean[m][n];
         boolean[][] atlantic = new boolean[m][n];
+        for (int j = 0; j < n; j++) dfs(0, j, heights, pacific);
+        for (int i = 0; i < m; i++) dfs(i, 0, heights, pacific);
+        for (int j = 0; j < n; j++) dfs(m - 1, j, heights, atlantic);
+        for (int i = 0; i < m; i++) dfs(i, n - 1, heights, atlantic);
 
-        for (int i = 0; i < m; i++) {
-            pacific[i][0] = true;
-            atlantic[i][n - 1] = true;
-        }
-        for (int j = 0; j < n; j++) {
-            pacific[0][j] = true;
-            atlantic[m - 1][j] = true;
-        }
-
-        boolean updated = true;
-
-        while (updated) {
-            updated = false;
-            for (int i = 0; i < m; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (!pacific[i][j]) {
-                        if (i > 0 && pacific[i - 1][j] && heights[i][j] >= heights[i - 1][j]) {
-                            pacific[i][j] = true;
-                            updated = true;
-                        } else if (i < m - 1 && pacific[i + 1][j] && heights[i][j] >= heights[i + 1][j]) {
-                            pacific[i][j] = true;
-                            updated = true;
-                        } else if (j > 0 && pacific[i][j - 1] && heights[i][j] >= heights[i][j - 1]) {
-                            pacific[i][j] = true;
-                            updated = true;
-                        } else if (j < n - 1 && pacific[i][j + 1] && heights[i][j] >= heights[i][j + 1]) {
-                            pacific[i][j] = true;
-                            updated = true;
-                        }
-                    }
-                    if (!atlantic[i][j]) {
-                        if (i > 0 && atlantic[i - 1][j] && heights[i][j] >= heights[i - 1][j]) {
-                            atlantic[i][j] = true;
-                            updated = true;
-                        } else if (i < m - 1 && atlantic[i + 1][j] && heights[i][j] >= heights[i + 1][j]) {
-                            atlantic[i][j] = true;
-                            updated = true;
-                        } else if (j > 0 && atlantic[i][j - 1] && heights[i][j] >= heights[i][j - 1]) {
-                            atlantic[i][j] = true;
-                            updated = true;
-                        } else if (j < n - 1 && atlantic[i][j + 1] && heights[i][j] >= heights[i][j + 1]) {
-                            atlantic[i][j] = true;
-                            updated = true;
-                        }
-                    }
-                }
-            }
-        }
         List<List<Integer>> result = new ArrayList<>();
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -61,5 +21,16 @@ class Solution {
             }
         }
         return result;
+    }
+
+    private void dfs(int i, int j, int[][] heights, boolean[][] visited) {
+        if (visited[i][j]) return;
+        visited[i][j] = true;
+        for (int[] d : directions) {
+            int x = i + d[0], y = j + d[1];
+            if (x < 0 || x >= m || y < 0 || y >= n) continue;
+            if (heights[x][y] < heights[i][j]) continue;
+            dfs(x, y, heights, visited);
+        }
     }
 }
